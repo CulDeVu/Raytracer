@@ -1,0 +1,16 @@
+http://i.imgur.com/ViLC68o.png
+http://i.imgur.com/mUq7bsq.png
+
+200 sample, 244 sec: http://imgur.com/fgG3nqZ
+200 sample, 2 bounce, 2086 sec, 1 thread: 
+
+1samp, 1bounce, 4scatt = 7sec
+1samp, 2bounce, 4scatt = 28sec
+1samp, 2bounce, 8scatt = 96sec
+1samp, 2bounce, 16scatt = 416sec
+
+Things I had open:
+http://i.imgur.com/ViLC68o.png
+http://i.imgur.com/mUq7bsq.png
+http://i.imgur.com/fgG3nqZ.png
+http://i.imgur.com/rO7fRc2.png
